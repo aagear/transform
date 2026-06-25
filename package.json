@@ -23,5 +23,6 @@
   },
   "devDependencies": {
     "express": "~3.1.1"
-  }
+  },
+  "homepage": "https://github.com/ForbesLindesay/transform"
 }
